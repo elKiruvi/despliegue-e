@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn==1.6.1
+imbalanced-learn
+joblib
+streamlit>=1.30.0
+matplotlib
+openpyxl
